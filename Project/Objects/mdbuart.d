@@ -1,0 +1,14 @@
+.\objects\mdbuart.o: ..\User\Driver\MDBUart.cpp
+.\objects\mdbuart.o: ..\User\Driver/MDBUart.h
+.\objects\mdbuart.o: ..\User\Custom/BaseOutput.h
+.\objects\mdbuart.o: D:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\mdbuart.o: ..\User\Custom/BaseFormat.h
+.\objects\mdbuart.o: ..\User\Thread/MessageQueue.h
+.\objects\mdbuart.o: D:\keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\RTOS2\RTX\Include\rtx_os.h
+.\objects\mdbuart.o: D:\keil\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\mdbuart.o: D:\keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\RTOS2\Include\cmsis_os2.h
+.\objects\mdbuart.o: ..\User\Message/BaseMessage.h
+.\objects\mdbuart.o: ..\User\Message/MDBMessage.h
+.\objects\mdbuart.o: ..\CMSIS\stm32f10x.h
+.\objects\mdbuart.o: ..\CMSIS\core_cm3.h
+.\objects\mdbuart.o: ..\CMSIS\system_stm32f10x.h

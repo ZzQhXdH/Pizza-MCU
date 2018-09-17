@@ -1,0 +1,9 @@
+.\objects\elevatormotor.o: ..\User\Driver\ElevatorMotor.cpp
+.\objects\elevatormotor.o: ..\User\Driver/ElevatorMotor.h
+.\objects\elevatormotor.o: D:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\elevatormotor.o: ..\CMSIS\stm32f10x.h
+.\objects\elevatormotor.o: ..\CMSIS\core_cm3.h
+.\objects\elevatormotor.o: ..\CMSIS\system_stm32f10x.h
+.\objects\elevatormotor.o: D:\keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\RTOS2\RTX\Include\rtx_os.h
+.\objects\elevatormotor.o: D:\keil\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\elevatormotor.o: D:\keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\RTOS2\Include\cmsis_os2.h
