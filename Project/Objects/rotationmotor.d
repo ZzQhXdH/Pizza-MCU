@@ -2,8 +2,8 @@
 .\objects\rotationmotor.o: ..\User\Driver/RotationMotor.h
 .\objects\rotationmotor.o: ..\CMSIS\stm32f10x.h
 .\objects\rotationmotor.o: ..\CMSIS\core_cm3.h
-.\objects\rotationmotor.o: D:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\rotationmotor.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\rotationmotor.o: ..\CMSIS\system_stm32f10x.h
-.\objects\rotationmotor.o: D:\keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\RTOS2\RTX\Include\rtx_os.h
-.\objects\rotationmotor.o: D:\keil\ARM\ARMCC\Bin\..\include\stddef.h
-.\objects\rotationmotor.o: D:\keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\RTOS2\Include\cmsis_os2.h
+.\objects\rotationmotor.o: C:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\RTX\Include\rtx_os.h
+.\objects\rotationmotor.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\rotationmotor.o: C:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\Include\cmsis_os2.h

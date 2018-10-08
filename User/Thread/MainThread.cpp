@@ -20,7 +20,7 @@ void MainThread::run(void)
 	MDBMessage mdb_msg;
 	ScanQRCodeMessage scan_msg;
 	osStatus_t ret;
-	
+
 	while (true)
 	{
 		ret = pc.recv(&pc_msg, 100);

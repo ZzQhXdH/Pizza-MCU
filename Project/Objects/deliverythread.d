@@ -1,0 +1,11 @@
+.\objects\deliverythread.o: ..\User\Thread\DeliveryThread.cpp
+.\objects\deliverythread.o: ..\User\Thread/DeliveryThread.h
+.\objects\deliverythread.o: ..\User\Thread/Thread.h
+.\objects\deliverythread.o: C:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\RTX\Include\rtx_os.h
+.\objects\deliverythread.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\deliverythread.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\deliverythread.o: C:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\Include\cmsis_os2.h
+.\objects\deliverythread.o: ..\User\Thread/MessageQueue.h
+.\objects\deliverythread.o: ..\User\Message/BaseMessage.h
+.\objects\deliverythread.o: ..\User\Custom/BaseOutput.h
+.\objects\deliverythread.o: ..\User\Custom/BaseFormat.h
